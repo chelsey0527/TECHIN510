@@ -16,4 +16,3 @@ with col1:
 
 with col2:
    st.image('chelsey.JPG', caption='Me')
-
