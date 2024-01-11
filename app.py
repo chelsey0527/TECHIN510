@@ -22,7 +22,7 @@ with col1:
     st.write("none")
 
 with col2:
-    st.image('chelsey.jpg', caption='Me')
+    st.image('chelsey.JPG', caption='Me')
     st.link_button("LinkedIn", "https://www.linkedin.com/in/chinshanlee/", help=None, type="secondary", disabled=False, use_container_width=False)
 
 st.divider()
